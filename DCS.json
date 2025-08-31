@@ -16,6 +16,12 @@
         "key": "11111",
         "expirydate": "15-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ad74e9a009a77f7d",
+        "key": "DCS@1122",
+        "expirydate": "03-09-2025",
+        "Allowoffline": false
     }
     
 ]
